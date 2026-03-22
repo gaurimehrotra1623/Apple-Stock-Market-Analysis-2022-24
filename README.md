@@ -29,11 +29,14 @@ The goal was not just to plot charts, but to **think like an analyst** — conne
 ```
 apple-stock-analysis/
 │
-├── Apple_inc.ipynb          # Main analysis notebook
-├── aapl_stock.csv           # Downloaded data (auto-generated)
-├── aapl_price_ma.png        # Plot 1 — Price & Moving Averages
-├── aapl_returns_dist.png    # Plot 2 — Daily Returns Distribution
-├── aapl_volatility.png      # Plot 3 — Rolling Volatility
+├── Apple_inc.ipynb          
+├── aapl_price_ma.png        
+├── aapl_returns_dist.png    
+├── aapl_volatility.png   
+├── aapl_heatmap.png 
+├── aapl_drawdown.png 
+├── aapl_vol_vs_abs_dr.png 
+├── AAPL_Stock_Analysis_Report.docx
 └── README.md
 ```
 
