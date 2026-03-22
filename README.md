@@ -166,8 +166,8 @@ All data sourced from **Yahoo Finance** via the `yfinance` Python library. No AP
 
 ## 👤 Author
 
-**Your Name**
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+**Gauri Mehrotra**
+[LinkedIn](https://www.linkedin.com/in/gauri-mehrotra-008580324/) · [GitHub](https://github.com/gaurimehrotra1623)
 
 ---
 
